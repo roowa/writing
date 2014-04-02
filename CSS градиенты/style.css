@@ -1,0 +1,180 @@
+html{
+  background-color: #ccc;
+}
+
+body{
+  width: 80%;
+  margin: 50px auto;
+}
+
+div{
+  width: 200px;
+  height: 200px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+/*.foo{
+  background-image: -webkit-linear-gradient(left,#000,#fff);
+  background-image:   -moz-background-image-linear-gradient(left,#000,#fff);
+  background-image:     -o-background-image-linear-gradient(left,#000,#fff);
+  background-image:                         linear-gradient(left,#000,#fff);
+}
+
+.moo{
+  background-image: -webkit-linear-gradient(top,#000,#fff);
+  background-image:   -moz-background-image-linear-gradient(top,#000,#fff);
+  background-image:     -o-background-image-linear-gradient(top,#000,#fff);
+  background-image:                         linear-gradient(top,#000,#fff);
+}
+
+.poo{
+  background-image: -webkit-linear-gradient(right,#000,#fff);
+  background-image:   -moz-background-image-linear-gradient(right,#000,#fff);
+  background-image:     -o-background-image-linear-gradient(right,#000,#fff);
+  background-image:                         linear-gradient(right,#000,#fff);
+}
+
+.goo{
+  background-image: -webkit-linear-gradient(bottom,#000,#fff);
+  background-image:   -moz-background-image-linear-gradient(bottom,#000,#fff);
+  background-image:     -o-background-image-linear-gradient(bottom,#000,#fff);
+  background-image:                         linear-gradient(bottom,#000,#fff); 
+}*/
+
+/*.noo{
+  background-image: -webkit-linear-gradient(top right,#000,#fff);
+  background-image:   -moz-background-image-linear-gradient(top right,#000,#fff);
+  background-image:     -o-background-image-linear-gradient(top right,#000,#fff);
+  background-image:                         linear-gradient(top right,#000,#fff);
+}
+
+.boo{
+  background-image: -webkit-linear-gradient(bottom right,#000,#fff);
+  background-image:   -moz-background-image-linear-gradient(bottom right,#000,#fff);
+  background-image:     -o-background-image-linear-gradient(bottom right,#000,#fff);
+  background-image:                         linear-gradient(bottom right,#000,#fff);
+}
+
+.coo{
+  background-image: -webkit-linear-gradient(top left,#000,#fff);
+  background-image:   -moz-background-image-linear-gradient(top left,#000,#fff);
+  background-image:     -o-background-image-linear-gradient(top left,#000,#fff);
+  background-image:                         linear-gradient(top left,#000,#fff);
+}
+
+.xoo{
+  background-image: -webkit-linear-gradient(bottom left,#000,#fff);
+  background-image:   -moz-background-image-linear-gradient(bottom left,#000,#fff);
+  background-image:     -o-background-image-linear-gradient(bottom left,#000,#fff);
+  background-image:                         linear-gradient(bottom left,#000,#fff);
+}*/
+
+/*.zoo, .aoo{
+  width: 400px;
+}
+
+.zoo{
+  background-image:                 -webkit-linear-gradient(45deg,#000,#fff);
+  background-image:   -moz-background-image-linear-gradient(45deg,#000,#fff);
+  background-image:     -o-background-image-linear-gradient(45deg,#000,#fff);
+  background-image:                         linear-gradient(45deg,#000,#fff);
+}
+
+.aoo{
+  background-image:                 -webkit-linear-gradient(315deg,rgb(0,0,0),rgb(204,204,204));
+  background-image:   -moz-background-image-linear-gradient(315deg,rgb(0,0,0),rgb(204,204,204));
+  background-image:     -o-background-image-linear-gradient(315deg,rgb(0,0,0),rgb(204,204,204));
+  background-image:                         linear-gradient(315deg,rgb(0,0,0),rgb(204,204,204));
+}*/
+
+
+/*.soo{
+  background-image:                 -webkit-linear-gradient(315deg, rgb(204,204,204), rgb(0,0,0), rgb(204,204,204));
+  background-image:   -moz-background-image-linear-gradient(315deg, rgb(204,204,204), rgb(0,0,0), rgb(204,204,204));
+  background-image:     -o-background-image-linear-gradient(315deg, rgb(204,204,204), rgb(0,0,0), rgb(204,204,204));
+  background-image:                         linear-gradient(315deg, rgb(204,204,204), rgb(0,0,0), rgb(204,204,204));
+}
+
+.doo{
+  background-image:                 -webkit-linear-gradient(45deg, rgb(0,0,0), rgb(201,204,204), rgb(0,0,0));
+  background-image:   -moz-background-image-linear-gradient(45deg, rgb(0,0,0), rgb(201,204,204), rgb(0,0,0));
+  background-image:     -o-background-image-linear-gradient(45deg, rgb(0,0,0), rgb(201,204,204), rgb(0,0,0));
+  background-image:                         linear-gradient(45deg, rgb(0,0,0), rgb(201,204,204), rgb(0,0,0));
+}*/
+
+/*.koo{
+  background-image:                 -webkit-linear-gradient(90deg, #900, #fc0 10%, #fc0 90%, #900);
+  background-image:   -moz-background-image-linear-gradient(90deg, #900, #fc0 10%, #fc0 90%, #900);
+  background-image:     -o-background-image-linear-gradient(90deg, #900, #fc0 10%, #fc0 90%, #900);
+  background-image:                         linear-gradient(90deg, #900, #fc0 10%, #fc0 90%, #900);
+}
+
+.loo{
+  background-color: #fc0;
+  background:                 -webkit-linear-gradient(90deg, rgba(153,0,0,.5), #fc0, rgba(153,0,0,.5));
+  background:   -moz-background-image-linear-gradient(90deg, rgba(153,0,0,.5), #fc0, rgba(153,0,0,.5));
+  background:     -o-background-image-linear-gradient(90deg, rgba(153,0,0,.5), #fc0, rgba(153,0,0,.5));
+  background:                         linear-gradient(90deg, rgba(153,0,0,.5), #fc0, rgba(153,0,0,.5)); 
+}
+
+.qoo{
+  background-color: #fc0;
+  background:               -webkit-linear-gradient(45deg, rgba(153,0,0,.5) 20px, #fc0 30px, rgba(153,0,0,.5) 40px);
+  background: -moz-background-image-linear-gradient(45deg, rgba(153,0,0,.5) 20px, #fc0 30px, rgba(153,0,0,.5) 40px);
+  background:   -o-background-image-linear-gradient(45deg, rgba(153,0,0,.5) 20px, #fc0 30px, rgba(153,0,0,.5) 40px);
+  background:                       linear-gradient(45deg, rgba(153,0,0,.5) 20px, #fc0 30px, rgba(153,0,0,.5) 40px);
+}*/
+
+/*.rqoo{
+  background-image:                 -webkit-radial-gradient(circle,rgba(204,204,204,.75),#0000ff);
+  background-image:   -moz-background-image-radial-gradient(circle,rgba(204,204,204,.75),#0000ff);
+  background-image:     -o-background-image-radial-gradient(circle,rgba(204,204,204,.75),#0000ff);
+  background-image:                         radial-gradient(circle,rgba(204,204,204,.75),#0000ff);
+}*/
+
+/*.rwoo{
+  background-image:                 -webkit-radial-gradient(20% 40%,circle,red,blue);
+  background-image:   -moz-background-image-radial-gradient(20% 40%,circle,red,blue);
+  background-image:     -o-background-image-radial-gradient(20% 40%,circle,red,blue);
+  background-image:                         radial-gradient(20% 40%,circle,red,blue); 
+}*/
+
+/*.reoo{
+  background-image:                 -webkit-radial-gradient(20% 40%, circle closest-side, red, blue);
+  background-image:   -moz-background-image-radial-gradient(20% 40%, circle closest-side, red, blue);
+  background-image:     -o-background-image-radial-gradient(20% 40%, circle closest-side, red, blue);
+  background-image:                         radial-gradient(20% 40%, circle closest-side, red, blue);  
+}
+
+.rtoo{
+  background-image:                 -webkit-radial-gradient(20% 40%,circle closest-corner,red,blue);
+  background-image:   -moz-background-image-radial-gradient(20% 40%,circle closest-corner,red,blue);
+  background-image:     -o-background-image-radial-gradient(20% 40%,circle closest-corner,red,blue);
+  background-image:                         radial-gradient(20% 40%,circle closest-corner,red,blue); 
+}
+
+.rgoo{
+  background-image:                 -webkit-radial-gradient(20% 40%,circle farthest-side,red,blue);
+  background-image:   -moz-background-image-radial-gradient(20% 40%,circle farthest-side,red,blue);
+  background-image:     -o-background-image-radial-gradient(20% 40%,circle farthest-side,red,blue);
+  background-image:                         radial-gradient(20% 40%,circle farthest-side,red,blue); 
+}
+
+.rhoo{
+  background-image:                 -webkit-radial-gradient(20% 40%,circle farthest-corner, red, blue);
+  background-image:   -moz-background-image-radial-gradient(20% 40%,circle farthest-corner, red, blue);
+  background-image:     -o-background-image-radial-gradient(20% 40%,circle farthest-corner, red, blue);
+  background-image:                         radial-gradient(20% 40%,circle farthest-corner, red, blue); 
+}*/
+
+
+/*.rjoo{
+  background-image:                 -webkit-radial-gradient(20% 40%, circle, #ff0000 20%, orange 80%, yellow);
+  background-image:   -moz-background-image-radial-gradient(20% 40%, circle, #ff0000 20%, orange 80%, yellow);
+  background-image:     -o-background-image-radial-gradient(20% 40%, circle, #ff0000 20%, orange 80%, yellow);
+  background-image:                         radial-gradient(20% 40%, circle, #ff0000 20%, orange 80%, yellow);  
+}*/

@@ -1,0 +1,15 @@
+Создать альфа-канал в IE7 и IE8
+
+http://css-tricks.com/rgba-browser-support
+http://www.cssjuice.com/38-freeicon-checkpoints/
+
+HSL
+
+Hue - тон
+Saturation - насыщенность
+Lightness - осветленность
+
+Retina-дисплей - дисплей повышенной четкости, у которого число пикселей на кв. дюйм в 2 раза больше, чем у обычного дисплейя.
+Обычный dispay - 72-100 px, Retina - 224px.
+
+Webdings - шрифтовые иконки, уже имеющиеся на любом PC. Можно поиграться с ними.

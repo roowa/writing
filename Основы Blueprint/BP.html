@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>BP</title>
+  <link rel="stylesheet" type="text/css" href="css/screen.css" media="screen, projection">
+  <link rel="stylesheet" type="text/css" href="css/print.css" media="print">
+  <![if lt IE 8]-->
+    <link rel="stylesheet" type="text/css" href="css/ie.css" media="screen, projection">
+  <![endif]-->
+  <style>
+    div[class^="span"]{
+      min-height: 200px;
+      text-align: center;
+      line-height: 200px;
+      font-variant: small-caps;
+      font-size: 2em;
+    }
+    .span-24{
+      /*background-color: #ccc;*/
+    }
+    .span-4,
+    .span-16{
+      /*background-color: #ddd;*/
+      min-height: 400px !important;
+      line-height: 400px !important;
+    }
+  </style>
+</head>
+<body>
+    
+  <div class="container showgrid">
+
+    <!-- header section -->
+    <div class="span-24">header</div>
+
+    <!-- main section -->
+    <div class="span-4">first column</div>
+    <div class="span-16">center column</div>
+    <div class="span-4 last">last column</div>
+
+    <!-- footer section -->
+    <div class="span-24">footer</div>
+
+  </div><!-- end container -->
+
+</body>
+</html>
